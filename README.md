@@ -1,6 +1,6 @@
 # Host a Dynamic Web App on AWS with Terraform, Docker, Amazon ECR, and ECS
 
-![How_to_Host_a_Dynamic_Web_App_on_AWS_with_Docker_Amazon_ECR_and_Amazon_ECS](https://github.com/user-attachments/assets/d7e76000-a513-462b-9ccb-090cf1d722a8)
+![Screenshot (536)](https://github.com/user-attachments/assets/dea8f5be-0e2a-4843-82dc-87342da7640f)
 
 ## Create a new repository on GitHub. 
 
