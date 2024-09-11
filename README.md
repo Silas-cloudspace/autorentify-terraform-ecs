@@ -234,9 +234,10 @@ It’s in this file where we enter the credentials of the database we want to co
 1)	Open the flyway folder in VS Code
 
 2)	In the “conf” folder create a new file and name it “flyway.conf”
+
 •	touch flyway.conf
 
-3)	Write into it the following:
+4)	Write into it the following:
 
  ![image](https://github.com/user-attachments/assets/5a9aa877-7054-4d3a-a884-a4db2cb72c13)
 
