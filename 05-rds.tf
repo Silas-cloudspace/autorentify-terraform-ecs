@@ -30,9 +30,11 @@ resource "aws_db_instance" "dev_rds_db" {
   db_name                 = "applicationdb"
   storage_encrypted       = true
   backup_retention_period = 7
+  parameter_group_name    = "mysql_para_group_name" 
 
-  # Optionally, you can add these parameters for dev/test environment.
-  parameter_group_name    = "default.mysql8.0" 
+  lifecycle {
+    create_before_destroy = true
+  }
 
   tags = {
     Name = "dev-rds-db"
