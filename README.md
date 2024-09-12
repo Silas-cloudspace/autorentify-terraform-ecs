@@ -1,4 +1,4 @@
-# Host a Dynamic Web App on AWS with Terraform, Docker, Amazon ECR, and ECS
+# Dynamic Web App on AWS with Terraform, Docker, Amazon ECR, and ECS
 
 ![Screenshot (536)](https://github.com/user-attachments/assets/dea8f5be-0e2a-4843-82dc-87342da7640f)
 
